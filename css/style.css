@@ -628,28 +628,6 @@ footer {
     justify-content: flex-start;
 }
 
-.intro-availability {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    font-family: var(--mono);
-    font-size: 0.8rem;
-    color: var(--text-dim);
-    border: 1px solid var(--border);
-    background: var(--surface);
-    border-radius: 999px;
-    padding: 6px 14px;
-    margin: 0 0 28px;
-}
-
-.intro-availability .dot {
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: var(--accent);
-    box-shadow: 0 0 0 3px rgba(94, 234, 212, 0.2);
-}
-
 /* ---------------- market clocks ---------------- */
 .market-clocks {
     display: flex;
